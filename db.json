@@ -1,224 +1,34 @@
 {
   "users": [
     {
-      "id": 1,
-      "username": "eness12",
-      "password": "xxx"
-    },
-    {
       "id": 2,
       "username": "alper345",
       "password": "xx"
     },
     {
-      "username ": "malik",
-      "password": "3434",
+      "username": "Alperen",
+      "password": "5151",
       "id": 5
     },
     {
-      "username ": "malik",
+      "username": "malik",
       "password": "3434",
       "id": 6
     },
     {
-      "username ": "malik",
+      "username": "malik",
       "password": "3434",
       "id": 7
     },
     {
-      "username ": "malik",
+      "username": "malik",
       "password": "3434",
       "id": 8
     },
     {
-      "username ": "malik",
+      "username": "malik",
       "password": "3434",
       "id": 9
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 10
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 11
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 12
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 13
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 14
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 15
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 16
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 17
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 18
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 19
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 20
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 21
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 22
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 23
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 24
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 25
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 26
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 27
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 28
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 29
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 30
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 31
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 32
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 33
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 34
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 35
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 36
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 37
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 38
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 39
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 40
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 41
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 42
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 43
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 44
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 45
-    },
-    {
-      "username ": "malik",
-      "password": "3434",
-      "id": 46
     }
   ],
   "posts": [
@@ -228,13 +38,7 @@
       "author": "typicode"
     }
   ],
-  "comments": [
-    {
-      "id": 3,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
